@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Scattered",
+  "base_artist": "Green Day",
+  "createdAt": "2025-12-05T12:20:08.632613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Scattered Ashes (Song for Richard)",
+      "artist": "Minor Victories",
+      "has_synced": false,
+      "path": "select/01_Scattered_Ashes_(Song_for_Richard)_Minor_Victories.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scattered Remains, Splattered Brains",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/02_Scattered_Remains,_Splattered_Brains_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trashed and Scattered",
+      "artist": "Avenged Sevenfold",
+      "has_synced": true,
+      "path": "select/03_Trashed_and_Scattered_Avenged_Sevenfold.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scattered",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/04_Scattered_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Scattered",
+      "artist": "The Kinks",
+      "has_synced": false,
+      "path": "select/05_Scattered_The_Kinks.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "scattered black and whites",
+      "artist": "Elbow",
+      "has_synced": true,
+      "path": "select/06_scattered_black_and_whites_Elbow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Scattered in the Sand",
+      "artist": "Colin Hay",
+      "has_synced": false,
+      "path": "select/07_Scattered_in_the_Sand_Colin_Hay.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Scattered",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/08_Scattered_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scattered",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/09_Scattered_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Scattered",
+      "artist": "Rusted Root",
+      "has_synced": true,
+      "path": "select/10_Scattered_Rusted_Root.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Scattered Me - Remastered",
+      "artist": "Evergrey",
+      "has_synced": false,
+      "path": "select/11_A_Scattered_Me_-_Remastered_Evergrey.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Scattered Me",
+      "artist": "Evergrey",
+      "has_synced": false,
+      "path": "select/12_A_Scattered_Me_Evergrey.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scattered Parts",
+      "artist": "Emptyself",
+      "has_synced": false,
+      "path": "select/13_Scattered_Parts_Emptyself.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Scattered To The Four Winds",
+      "artist": "Auri",
+      "has_synced": true,
+      "path": "select/14_Scattered_To_The_Four_Winds_Auri.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Scattered Sprites",
+      "artist": "Car Bomb",
+      "has_synced": true,
+      "path": "select/15_Scattered_Sprites_Car_Bomb.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Trashed and Scattered (clean version)",
+      "artist": "Avenged Sevenfold",
+      "has_synced": true,
+      "path": "select/16_Trashed_and_Scattered_(clean_version)_Avenged_Sevenfold.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "SCATTERED HEART",
+      "artist": "Kairiki Bear",
+      "has_synced": false,
+      "path": "select/17_SCATTERED_HEART_Kairiki_Bear.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "SCATTERED HEART",
+      "artist": "Kairikibear",
+      "has_synced": false,
+      "path": "select/18_SCATTERED_HEART_Kairikibear.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Scattered",
+      "artist": "Green Day",
+      "has_synced": false,
+      "path": "select/pl_01_Scattered_Green_Day.txt"
+    }
+  ]
+}
